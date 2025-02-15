@@ -1,5 +1,5 @@
 
-# Curso <Test Unitarios con JUnit y Mockito> con Java 8
+# Curso Test Unitarios con JUnit y Mockito con Java 8
 
 ---
 
